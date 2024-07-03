@@ -1,0 +1,81 @@
+.top-navbar {
+    background-color: #e7159f !important;
+}
+
+#top_navbar {
+    background-color: blue !important;
+}
+.nav{
+    text-align: right;
+}
+.search{
+    background-color: black;
+    width: 25px;
+    height: 50px;
+    padding-left: 5px;
+    padding-top:9px ;
+}
+
+img{
+    width: 100%;
+    height: 400px;
+}
+
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.bottom-right{
+    position: absolute;
+    top: 60%;
+    padding: 20px;
+    
+}
+.bottom-right-1{
+    position: absolute;
+    top: 65%;
+    padding: 20px;
+    
+}
+
+h2{
+    display: inline;
+}
+.navbar3{
+    background-color: orange;
+    width: 500px;
+    height: 150px;
+    display: inline-block;
+}
+.navbar4{
+    background-color: rgb(225, 118, 164);
+    width: 500px;
+    height: 150px;
+    display: inline-block;
+}
+.navbar5{
+    background-color: rgb(234, 38, 123);
+    width: 470px;
+    height: 150px;
+    display: inline-block;
+}
+.aboutus{
+    padding: 20px;
+    width: 100%;
+    padding-top: 40px;
+
+}
+
+.services{
+    background-color: grey;
+    width: 1500px;
+    height: 580px;
+    margin-top: 50px;
+}
+.nav-item-1{
+    background-color: orange;
+    color: black;
+}
+
